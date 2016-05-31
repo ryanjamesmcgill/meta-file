@@ -1,0 +1,11 @@
+{
+  "name": "meta-file",
+  "description": "freecodecamp.com project, File Metadata Microservice",
+  "repository": "",
+  "logo": "",
+  "keywords": [
+    "node",
+    "express"
+  ],
+  "image": "heroku/nodejs"
+}

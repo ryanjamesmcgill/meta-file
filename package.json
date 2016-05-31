@@ -1,0 +1,16 @@
+{
+  "name": "meta-file",
+  "version": "1.0.0",
+  "description": "freecodecamp.com project, File Metadata Microservice",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "author": "Ryan McGill <ryanjamesmcgill@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4",
+    "lodash": "^4.13.1",
+    "multer": "^1.1.0"
+  }
+}
