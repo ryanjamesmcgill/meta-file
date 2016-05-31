@@ -1,11 +1,11 @@
 # API Basejump: File Metadata Microservice
 
-<strong>live demo:</strong> <a href=""></a>
+<strong>live demo:</strong> <a href="https://metafile-rjm.herokuapp.com/">https://metafile-rjm.herokuapp.com/</a>
 
 ## Usage
 
 ```bash
-$ git clone #####
+$ git clone https://github.com/ryanjamesmcgill/meta-file.git
 $ cd your-project
 $ node server.js
 ```
